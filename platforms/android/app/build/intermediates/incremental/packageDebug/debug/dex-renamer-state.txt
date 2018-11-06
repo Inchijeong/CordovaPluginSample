@@ -1,0 +1,4 @@
+#Tue Nov 06 11:55:17 KST 2018
+base.0=F\:\\vsc_ws\\pluginTuto\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
